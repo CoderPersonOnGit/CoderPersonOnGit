@@ -23,6 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderpersonongit&show_icons=true&locale=en&layout=compact" alt="coderpersonongit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpersonongit&show_icons=true&locale=en" alt="coderpersonongit" /></p>
