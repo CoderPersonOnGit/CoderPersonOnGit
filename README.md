@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java and C++**
+- 🌱 I’m currently learning **Python, Java, Javascript, Typescript, Markdown, HTML and C++**
 
 - 👯 I’m looking to collaborate on **Apps, Websites, and Passion Projects**
 
