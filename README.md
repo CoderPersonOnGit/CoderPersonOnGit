@@ -1,5 +1,6 @@
-<h1 align="center">Soccer Player & Designer Vyan M.</h1>
-<h3 align="center">Programmer, Designer and Soccer player in the Greater Seattle Area</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Vyan+Malige)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;CAD+Technician)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
 
