@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Vyan+Malige)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&vCenter=true&width=435&lines=Vyan+Malige)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=FTC+Robotics;CAD+;Programming;Soccer+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&vCenter=true&width=435&lines=Programming;CAD;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Python, Java, Javascript, Typescript, Markdown, HTML and C++**
