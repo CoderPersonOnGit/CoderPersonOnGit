@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=FTC+Robotics;CAD+;Programming;Soccer+Player)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, Javascript, Typescript, Markdown, HTML and C++**
 
@@ -18,8 +15,16 @@
 
 - 📫 How to reach me **vyma.2030@gmail.com**
 
+## Tech Stack
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+<div align="left">
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats</summary>
+<div align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpersonongit&show_icons=true&locale=en" alt="coderpersonongit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderpersonongit&" alt="coderpersonongit" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
