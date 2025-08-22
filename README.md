@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&vCenter=true&width=435&lines=Vyan+Malige)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=50&pause=1000&color=F72607&vCenter=true&width=435&lines=Vyan+M.)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&vCenter=true&width=435&lines=Programming;CAD;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=30&pause=1000&color=F72607&vCenter=true&width=435&lines=Soccer+Player;Programming;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
 
 
 **I am a passionate web developer, roboticist, and a STEM student. I enjoy playing soccer in the RCL division, reading, and coding! In my free time, I enjoy science experiments, technology, and doing mathematics. Ranging from innovative solutions in a science fair, to technology in robotics, I am enthusiastic in pursuing my job in doing so.**
