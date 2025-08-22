@@ -48,10 +48,9 @@ ________________________________________________________________________________
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats</summary>
 <div align="center">
-    ## Github Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpersonongit&show_icons=true&locale=en" alt="coderpersonongit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderpersonongit&" alt="coderpersonongit" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
