@@ -2,6 +2,19 @@
 ______________________________________________________________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Programmer;CAD+Designer;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
 
+<a href="https://github.com/CoderPersonOnGit?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CoderPersonOnGit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<a href="https://github.com/CoderPersonOnGit?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CoderPersonOnGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+<a href="https://github.com/CoderPersonOnGit/CourseProjects/">
+   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+
+
+
 
 **I am a passionate web developer, roboticist, and a STEM student. I enjoy playing soccer in the RCL division, reading, and coding! In my free time, I enjoy science experiments, technology, and doing mathematics. Ranging from innovative solutions in a science fair, to technology in robotics, I am enthusiastic in pursuing my job in doing so.**
 
