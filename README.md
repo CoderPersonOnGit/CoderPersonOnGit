@@ -51,6 +51,8 @@ ________________________________________________________________________________
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpersonongit&show_icons=true&locale=en" alt="coderpersonongit" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderPersonOnGit&layout=compact)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderpersonongit&" alt="coderpersonongit" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderpersonongit" alt="coderpersonongit" /></a> </p>
