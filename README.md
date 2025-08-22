@@ -5,15 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&vCenter=true&width=435&lines=Programming;CAD;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Python, Java, Javascript, Typescript, Markdown, HTML and C++**
+**I am a passionate web developer, roboticist, and a STEM student. I enjoy playing soccer in the RCL division, reading, and coding! In my free time, I enjoy science experiments, technology, and doing mathematics. Ranging from innovative solutions in a science fair, to technology in robotics, I am enthusiastic in pursuing my job in doing so.**
 
-- 👯 I’m looking to collaborate on **Apps, Websites, and Passion Projects**
-
-- 📝 I Publish research articles [https://docs.google.com/document/d/1RLlJzTTM8wQlj0pjpq4cCkG8O6D6-mfSJ_V6mwkgUC4/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1RLlJzTTM8wQlj0pjpq4cCkG8O6D6-mfSJ_V6mwkgUC4/edit?pli=1&tab=t.0)
-
-- 💬 Ask me about **Designing and Research assistance**
-
-- 📫 How to reach me **vyma.2030@gmail.com**
+**Some of my interests include:**
+   
+    1. Research & Development
+    2. Programming and Design
+    3. Robotics & Engineering
+    4. Mathematics and Science
 
 <div align="center">
 
