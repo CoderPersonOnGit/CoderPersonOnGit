@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <a href="https://github.com/CoderPersonOnGit?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CoderPersonOnGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
-<a href="https://github.com/CoderPersonOnGit/tab=repositories/">
+<a href="https://github.com/CoderPersonOnGit?tab=repositories">
    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
