@@ -33,7 +33,7 @@ ________________________________________________________________________________
     3. Robotics & Engineering
     4. Mathematics and Science
 
-![](https://img.shields.io/badge/Star-Nominate%20@CoderPersonOnGit-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)![](https://stars.github.com/nominate)
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@CoderPersonOnGit-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
 
 _________________________________________________________________________________________________________________________________________
