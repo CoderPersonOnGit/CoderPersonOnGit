@@ -36,6 +36,13 @@ ________________________________________________________________________________
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@CoderPersonOnGit-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+
 _________________________________________________________________________________________________________________________________________
 
 <div align="center">
