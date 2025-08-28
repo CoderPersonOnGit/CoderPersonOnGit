@@ -25,3 +25,5 @@ jobs:
         with:
           message: "🐍 Update GitHub contribution snake"
           add: "output/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
