@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=50&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Vyan+M.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=50&pause=1000&color=F77825&vCenter=true&width=435&lines=Vyan+M.)](https://git.io/typing-svg)
 ______________________________________________________________________________________________________________________________
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Programmer;CAD+Designer;Soccer+Player;FTC+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=F77825&vCenter=true&width=435&lines=Programmer;Roboticist;Soccer+Player;CAD+Designer)](https://git.io/typing-svg)
 
 <a href="https://github.com/CoderPersonOnGit?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CoderPersonOnGit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
