@@ -36,7 +36,9 @@ ________________________________________________________________________________
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@CoderPersonOnGit-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-@CoderPersonOnGit-ff69b4.svg?logo=github&labelColor=181717&style=for-the-badge)](https://github.com/sponsors/CoderPersonOnGit)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpersonongit&label=Profile%20views&color=0e75b6&style=flat" alt="coderpersonongit" /> </p>
+
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-🔎%20Live-0e75b6.svg?logo=github&labelColor=181717&style=for-the-badge)](https://komarev.com/ghpvc/?username=coderpersonongit)
+
 
 ![](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
 
